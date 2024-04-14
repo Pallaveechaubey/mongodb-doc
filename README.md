@@ -1,5 +1,5 @@
 # MongoDB
-![image](https://github.com/Pallaveechaubey/mongodb-doc/assets/159125105/b490e251-3df6-4937-859b-d93e8692fbc6)
+<img src="https://github.com/Pallaveechaubey/mongodb-doc/assets/159125105/b490e251-3df6-4937-859b-d93e8692fbc6" alt="Alt Text" style="width: 100%;"/>
 
 
 
