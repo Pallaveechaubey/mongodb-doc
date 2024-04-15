@@ -185,10 +185,6 @@ Write  ``mongosh``  in your terminal, and it will open the mongodb console.
 
 To list all the databases stored in your mongodb we can use the below commands:
 
-```
-show database;
-```
-or
 
 ```
 show dbs;
