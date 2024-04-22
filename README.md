@@ -94,7 +94,6 @@ Example: Smart city projects collecting and analyzing data from sensors deployed
 
  ## MongoDB Architecture
 
- Sure, let's break down each component of MongoDB architecture in simple terms:
 
 ### Database:
 Think of a database as a big container where you can store different sets of information. It's like a folder on your computer where you keep files related to a specific topic. In MongoDB, a database is where you organize your collections.
